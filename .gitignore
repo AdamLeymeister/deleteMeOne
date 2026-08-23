@@ -1,0 +1,59 @@
+# =========================
+# Build output
+# =========================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# .NET build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.deps.json
+*.runtimeconfig.json
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# NuGet
+# =========================
+packages/
+*.nupkg
+*.snupkg
+
+project.lock.json
+
+# =========================
+# Test results / coverage
+# =========================
+TestResults/
+*.trx
+coverage/
+*.coverage
+*.coveragexml
+
+# =========================
+# Logs / temporary files
+# =========================
+*.log
+*.tmp
+*.temp
+~$*
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,4 +1,12 @@
-﻿namespace app1
+﻿// ============================================================================
+// Copyright (c) 2026 Example Company
+// All Rights Reserved.
+//
+// File: ExampleService.cs
+// Description: Example source file used for testing.
+// ============================================================================
+
+namespace app1
 {
     partial class Form1
     {
@@ -37,3 +45,8 @@
         #endregion
     }
 }
+
+// ============================================================================
+// END OF FILE
+// Example Company - Proprietary and Confidential
+// ============================================================================
