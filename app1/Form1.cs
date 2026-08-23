@@ -16,7 +16,8 @@ namespace app1
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent("Changes");
+            InitializeComponent(); //Comment
         }
     }
 }
