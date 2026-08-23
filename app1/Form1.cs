@@ -1,10 +1,14 @@
-// ============================================================================
-// Copyright (c) 2026 Example Company
-// All Rights Reserved.
+// -----------------------------------------------------------------------------
+// ACME SOFTWARE SYSTEMS
+// Internal Source Code
 //
-// File: ExampleService.cs
-// Description: Example source file used for testing.
-// ============================================================================
+// Module: ExampleService
+// Maintainer: Application Development Team
+// Revision: 2.4
+//
+// This source code is intended solely for authorized development and testing.
+// Unauthorized distribution or modification is prohibited.
+// -----------------------------------------------------------------------------
 
 namespace app1
 {
@@ -17,7 +21,9 @@ namespace app1
     }
 }
 
-// ============================================================================
-// END OF FILE
-// Example Company - Proprietary and Confidential
-// ============================================================================
+// -----------------------------------------------------------------------------
+// [ ACME SOFTWARE SYSTEMS :: END OF SOURCE ]
+//
+// Build Classification: INTERNAL
+// Document Revision: 2.4
+// -----------------------------------------------------------------------------
